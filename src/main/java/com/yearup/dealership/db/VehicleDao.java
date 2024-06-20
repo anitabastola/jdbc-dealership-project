@@ -20,6 +20,7 @@ public class VehicleDao {
 
     public void removeVehicle(String VIN) {
         // TODO: Implement the logic to remove a vehicle
+
     }
 
     public List<Vehicle> searchByPriceRange(double minPrice, double maxPrice) {
